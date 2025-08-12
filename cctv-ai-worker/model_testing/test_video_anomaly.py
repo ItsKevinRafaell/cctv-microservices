@@ -1,4 +1,5 @@
 # RUNNING : py test_video_anomaly.py <video_source_to_be_tested>
+# Download Video First, I've deleted the video in reason of minimizing file size
 import cv2
 import numpy as np
 from collections import deque
